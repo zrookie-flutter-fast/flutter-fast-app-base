@@ -2,7 +2,10 @@
 
 
 
-## Github 주소 :
+## Github :
 
-https://github.com/orgs/zrookie-flutter-fast/repositories
+https://github.com/orgs/zrookie-flutter-fast/flutter-fast-app-base
+
+
+
 
